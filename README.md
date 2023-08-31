@@ -1,7 +1,7 @@
 # A Hybrid Methodology for Forex Forecasting
 
 ## Abstract
-We introduce a novel approach by applying a hybrid machine learning framework to the underexplored area of Forex market 
+We introduce a novel approach by applying a hybrid machine learning framework to the area of Forex market 
 forecasting. Focusing on four major currency pairs—EUR/USD, GBP/USD, USD/JPY, and USD/CHF—from 2013 to 2023, our approach 
 combines supervised learning algorithms with unsupervised HDBSCAN clustering. The framework employs a unique method of 
 deriving targets from clustering results, using moving averages. Additionally, it encompasses a diverse range of supervised
