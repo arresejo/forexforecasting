@@ -21,9 +21,8 @@ Arrese Rodriguez, J. (2023). *A Hybrid Methodology for Forex Forecasting*. MSc i
 
 ## Table of Contents
 1. [Execution Environment](#execution-environment)
-2. [Requirements](#requirements)
-3. [Configuration](#configuration)
-4. [Execution Methods](#execution-methods)
+2. [Configuration](#configuration)
+3. [Execution Methods](#execution-methods)
    - [Optional Step: Data Cleanup](#preliminary-step)
    - [Option 1: Automated Notebook Execution](#execute-notebooks)
    - [Option 2: Automated Pipeline Execution](#execute-pipelines)
