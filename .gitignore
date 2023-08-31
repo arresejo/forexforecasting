@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+.git/
+venv-forex-forecasting/
+**/__pycache__/
+**/.ipynb_checkpoints/

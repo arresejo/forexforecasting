@@ -1,0 +1,9 @@
+papermill==2.4.0
+pandas==2.0.2
+matplotlib==3.7.1
+scikit-learn==1.2.2
+tensorflow==2.13.0
+plotly==5.15.0
+tsfresh==0.20.1
+hdbscan==0.8.29
+ipykernel==6.23.3
