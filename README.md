@@ -13,9 +13,6 @@ while providing nuanced insights into the complexities of financial performance 
 importance of a more advanced approach to Forex trading that takes into account both risk management and market volatility.
 
 ## References
-
-For the underlying methodology of this project, please refer to:
-
 Arrese Rodriguez, J. (2023). *A Hybrid Methodology for Forex Forecasting*. MSc in Artificial Intelligence dissertation, The University of Bath.
 
 
